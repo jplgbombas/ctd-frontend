@@ -1,0 +1,46 @@
+body {
+
+    background-color: #453EE6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.colorh1 {
+
+    color: #98DEFF;
+
+}
+
+.job-title {
+    color: #ffffff;
+    background-color: #38B2FC;
+}
+
+p {
+    
+    color: #ffffff;
+
+}
+
+h2 {
+
+    color: #4BF5C2;
+
+}
+
+#high {
+
+    color: azure;
+
+}
+
+ul {
+
+    background-color: #38B2FC;
+
+}
+
+li {
+    
+    color: #ffffff;
+}
