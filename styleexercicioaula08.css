@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color: #202020;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #ececec;
+}
+
+.media-picture {
+    background-image: url('https://images2.alphacoders.com/869/thumb-1920-869847.jpg');
+    height: 400px;
+    width: 2800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.review-score {
+    font-family: 'Poppins', sans-serif;
+    background-color: #00b627;
+    background-size: cover;
+    color: #ffffff;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: #ececec;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    color: #ececec;
+}
